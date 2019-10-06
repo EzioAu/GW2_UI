@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 80205
 ## Title: GW2 UI
 ## Notes: Hud Replacement addon.
 ## OptionalDeps: MoveAnything
@@ -15,6 +15,7 @@ core/utils.lua
 core/settings_default.lua
 core/settings_api.lua
 
+changelog.lua
 GW2_ui.lua
 
 core/shared.xml

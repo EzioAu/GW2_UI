@@ -1,16 +1,35 @@
+5.1.7
+
+MISCELLANEOUS
+    - Update locals (zhTW, ptBR)
+    
+
+5.1.6
+
+MISCELLANEOUS
+    - Disable toast messages
+    - Change debuff position on target if target has no buffs
+
+
 5.1.5
 
 NEW
+    - Added Welcome- and Changelog Page
+    - Added Pixel Perfection Mode
     - Added Move HUD option for tooltips
-    - Stancebuttons have a owen border
-    - Temp weapon enchants are now showen as buff
+    - Stancebuttons have own border
+    - Temp weapon enchants are now shown as buff
+    - Added option to set combpoints to the unitframe
+    - Added SharedMedia support (Fonts and Textures)
 
 FIXES
+    - Update TOC for 8.2.5
+    - Remove deprecated hook for guild microbutton
     - Fixed CN & TW font issues
     - GW2_UI works fine with dominos if our Actionsbars are disabled
 
 MISCELLANEOUS
-    - Stacebar shows now the stancebutton if only one stance is known
+    - Stancebar shows the stancebutton if only one stance is known
 
 
 5.1.4

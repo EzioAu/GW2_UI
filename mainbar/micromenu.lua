@@ -552,11 +552,6 @@ local function LoadMicroMenu()
         function()
             HelpMicroButton:Show()
             MicroButtonPortrait:Hide()
-        end
-    )
-    hooksecurefunc(
-        "GuildMicroButton_UpdateTabard",
-        function()
             GuildMicroButtonTabard:Hide()
             local m = GuildMicroButton
             m:SetDisabledTexture("Interface/AddOns/GW2_UI/textures/GuildMicroButton-Up")
